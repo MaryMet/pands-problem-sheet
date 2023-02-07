@@ -1,3 +1,0 @@
-# helloworld.py
-print ('Helloworld')
-
