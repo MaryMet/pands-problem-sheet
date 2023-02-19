@@ -6,16 +6,18 @@ number = []
 
 number = int(input ("Enter a positive number : "))
 
-while number != 1: 
-    if (number % 2) == 0:
-        even_num = (number/2)
-        print (f"The number {number} is even therefore I will divide it by 2")
-        print (f"Your answer is {even_num}")
-    else:
-        odd_num = (number *3 +1 )
-        print (f"The number {number} is odd there I will multiply it by 3 and add 1")
-        print (f"Your answer is {odd_num}")
+def collatz(number):   #addes this in after lots of internet searching 
+
+    while number != 1: # I had a few infinie loops before I put in this line to end at 1
+        if (number % 2) == 0:
+            number = (number//2)
+            print (f"The number is even therefore it will be divided by 2") #print the number and then collatz
+            print (f"Your answer is {number}")
+        else:
+            number = (number *3 +1 )
+            print (f"The number  is odd there it will be multiplied by 3 and 1 added")
+            print (f"Your answer is {number}")
 
 
+collatz(number)
 
-# see attempt 2 for a list of numbers
