@@ -6,3 +6,4 @@
 # Week 04 - i struggled trying to imagine how to put the maths together with the ifs and elses
 # Week 04 - I seem to have it working on a basic level - I used the labs we did on evens and odd combined with examples on  w3 schools and my own imagination - that is the most difficult part imagining what I want.
 # Week 04 - I wrote some "pseudo code" down and then coded along with labs and w3 schools to reflect my thoughts
+# Week 04 - I then relaeased it has to be a continuous list of numbers until 1 - try again

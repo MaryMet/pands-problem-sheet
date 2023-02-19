@@ -10,4 +10,4 @@ amount2 = input("Please enter second amount in cents: ")
 ans = float(amount1) + float(amount2) #takes into account the decimals. Adds the totals together
 
 print ("The sum of amount1 and amount2 is: €" + str(ans)) # add the two value to give an answer in eros and cents
-
+1
