@@ -7,4 +7,5 @@
 # Week 04 - I seem to have it working on a basic level - I used the labs we did on evens and odd combined with examples on  w3 schools and my own imagination - that is the most difficult part imagining what I want.
 # Week 04 - I wrote some "pseudo code" down and then coded along with labs and w3 schools to reflect my thoughts
 # Week 04 - I then relaeased it has to be a continuous list of numbers until 1 - try again
-# Week 04 - alfter some research online I learned about the collatx preset function and wtore up collatz 2 and tried to fix my first attempt
+# Week 04 - after some research online I learned about the collatx preset function and wtore up collatz 2 and tried to fix my first attempt
+# Two collatz programs written and both work. collatz is more explanatory. collatz 2 is one I looked at on the internet - Stack Overflow
