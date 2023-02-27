@@ -13,6 +13,7 @@
 
 # Week 05 - I really struggled this week. 
 # Week 05 - As per last week I thought there would be some sort of mathematical solution to this but I learned from last week. Like the collatz issue I decided to explore if there inbuilt commands in python
-# some googling and exploration of w3 revealed the import datetime function. Now I feel this might be doable.
-# I can get my programme to come up with the day. I can get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
-# Success - I made a numebr of attempts with different methods before coming to my conclusion - main difficult - reflecting that the day is only part of the list. The change came when I used for and in.
+# Week 05 -some googling and exploration of w3 revealed the import datetime function. Now I feel this might be doable.
+# Week 05 -I can get my programme to come up with the day. I can get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
+# Week 05 -Success - I made a numebr of attempts with different methods before coming to my conclusion - main difficult - reflecting that the day is only part of the list. The change came when I used for and in.
+# week 05 -I have left in my other attempts and turned it into comments for you to see
