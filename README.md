@@ -7,11 +7,11 @@ This readme file is a decriptor of weekly tasks assigned to us in order to pract
 In this readme file I will explain the aim of the weekly tasks that were assigned. I will explain how I came to write the programs I uploaded. I will also explain my thought processes behind the programmes and I will identify what websites or resources gave me inspiration.
 
 ## Table of Contents - Weekly Tasks
-    * [Week 1] (Setting up the environment - Hello World Task)
-    * [Week 2] (Statements - Bank.py - Decimal addition)
-    * [Week 3] (Variables - Bank Security Number Task )
-    * [Week 4] (Controlling the Flow - Collatz.py)
-    * [Week 5] (Data - Weekday.py)
+    * [Week 1] (# Setting up the environment - Hello World Task)
+    * [Week 2] (# Statements - Bank.py - Decimal addition)
+    * [Week 3] (# Variables - Bank Security Number Task )
+    * [Week 4] (# Controlling the Flow - Collatz.py)
+    * [Week 5] (# Data - Weekday.py)
     
 
 # Weeks 1 -3
