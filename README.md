@@ -1,26 +1,28 @@
-# Pands Problem Sheet
+# **Pands Problem Sheet**
 
-## Introduction
+## **Introduction**
 
 This readme file is a decriptor of weekly tasks assigned to us in order to practice learning in the Module - Programming and Scripting. The Programming and scripting module form part of the higher diploma in Data Analytics from the Atlantic Technological University - ATU.
 
 In this readme file I will explain the aim of the weekly tasks that were assigned. I will explain how I came to write the programs I uploaded. I will also explain my thought processes behind the programmes and I will identify what websites or resources gave me inspiration.
 
-## Table of Contents 
+## **Table of Contents** 
 * [Weekly Tasks](#weekly-tasks)
     * [Week 1 helloworld](helloworld.py)
-    Setting up the environment. helloworld.py
+    Setting up the environment.
     * [Week 2 bank](bank.py)
-    Statements. bank.py
-    * [Week 3 accounts](accounts.py )
-    Variables - Bank Security Number Task accounts.py accountsextra2.py
-    * [Week 4 collatz](Collatz.py)
-    Controlling the Flow collatz.py  collatz2.py
+    Statements. 
+    * [Week 3 accounts](accounts.py)
+      [Week 3 extra](accountsextra2.py)
+    Variables - Bank Security Number Task accounts.py 
+    * [Week 4 collatz](collatz.py)
+      [Week 4.2](collatz2.py)
+    Controlling the Flow   
     * [Week 5 weekday](Weekday.py)
-    Data. Weekday.py
+    Data. 
     
 
-# Week 1 - Hello World Task
+# **Week 1** - Hello World Task
 
 There was a number of tasks in Week1. I introduced myself in the discussion forum. I created my environment by following the instuctions in the lectures. I have always had an interest in computing but more from a gaming and communication aspect. I found setting up the environment a challange due to my lack of knowlege about computing vocabulary. I installed the software as instructed - visual basic, commander, python and set up an account on Github.
 I than wrote by first programme. This was a very basic programme and was solution were easily found on [w3schools.com](https://w3schools.com).
