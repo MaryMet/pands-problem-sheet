@@ -22,17 +22,26 @@ In this readme file I will explain the aim of the weekly tasks that were assigne
     Data. 
     
 
-# **Week 1** - Hello World Task
+### **Week 1** - Hello World Task
 
 There was a number of tasks in Week1. I introduced myself in the discussion forum. I created my environment by following the instuctions in the lectures. I have always had an interest in computing but more from a gaming and communication aspect. I found setting up the environment a challange due to my lack of knowlege about computing vocabulary. I installed the software as instructed - visual basic, commander, python and set up an account on Github.
 I than wrote by first programme. This was a very basic programme and was solution were easily found on [w3schools.com](https://w3schools.com).
 What challanged me mostly this week was learning the add, commit, and push commands to Github. It took some brainpower to figure out how to push to the pands problem sheet.
 This week I also completed practice on tutorials in [w3schools.com](https://w3schools.com) to become more familiar with basics. I pushed these to mywork on Git hub.
 
-# Week 2 - Bank.py
+### Week 2 - Bank.py
+
+Week 2 task asked to write a programme titled bank.py. The objective of the programme was to prompt the user to enter two amounts of money -in cents. It must the complete the addition and display the answer in euros and cents.
+I again consulted with [w3schools.com](https://w3schools.com) and with the lectures this week. I also looked at some examples of programs in [stackoverflow.com](http://stackoverflow.com) 
+It took be some effort because I lacked any real understanding of syntax at this point. I wote a very basic prgramme and needed to correct many spaces, commas, colons and brackets before I got it to work.
+I have no been able to figure out yet how to put in the intial amounts in cents only. The programme only works if the amount is enter a decimal number.
+I used the float function to create this programme.
+
+### Week 3 - Accounts.py
 
 
-# Week 04 -
+
+### Week 04 -
 I struggled trying to imagine how to put the maths together with the ifs and elses
  I seem to have it working on a basic level - I used the labs we did on evens and odd combined with examples on  w3 schools and my own imagination - that is the most difficult part imagining what I want.
  I wrote some "pseudo code" down and then coded along with labs and w3 schools to reflect my thoughts
@@ -40,7 +49,7 @@ I struggled trying to imagine how to put the maths together with the ifs and els
  after some research online I learned about the collatx preset function and wtore up collatz 2 and tried to fix my first attempt
 Two collatz programs written and both work. collatz is more explanatory. collatz 2 is one I looked at on the internet - Stack Overflow
 
-# Week 05 
+### Week 05 
 I really struggled this week. 
 As per last week I thought there would be some sort of mathematical solution to this but I learned from last week. Like the collatz issue I decided to explore if there inbuilt commands in python
 some googling and exploration of w3 revealed the import datetime function. Now I feel this might be doable.
