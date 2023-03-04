@@ -1,4 +1,10 @@
-# pands-problem-sheet
+# Pands Problem Sheet
+
+## Introduction
+
+This readme file is a decriptor of weekly tasks assigned to us in order to practice learning in the Module - Programming and Scripting. The Programming and scripting module form part of the higher diploma in Data Analytics from the Atlantic Technological University - ATU.
+
+In this readme file I will explain the aim of the weekly tasks that were assigned. I will explain how I came to write the programs I uploaded. I will also explain my thought processes behind the programmes and I will identify what websites or resources gave me inspiration.
 
 ## Table of Contents - Weekly Tasks
     * [Week 1] (Setting up the environment - Hello World Task)
