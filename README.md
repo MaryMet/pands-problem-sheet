@@ -6,19 +6,32 @@ This readme file is a decriptor of weekly tasks assigned to us in order to pract
 
 In this readme file I will explain the aim of the weekly tasks that were assigned. I will explain how I came to write the programs I uploaded. I will also explain my thought processes behind the programmes and I will identify what websites or resources gave me inspiration.
 
-## Table of Contents - Weekly Tasks
-    * [Week 1] (# Setting up the environment - Hello World Task)
-    * [Week 2] (# Statements - Bank.py - Decimal addition)
-    * [Week 3] (# Variables - Bank Security Number Task )
-    * [Week 4] (# Controlling the Flow - Collatz.py)
-    * [Week 5] (# Data - Weekday.py)
+## Table of Contents 
+* [Weekly Tasks](#weekly-tasks)
+    * [Week 1](#helloworld.py)
+    Setting up the environment.
+    * [Week 2](#bank.py)
+    Statements
+    * [Week 3](#accounts.py )
+    Variables - Bank Security Number Task
+    * [Week 4](#Collatz.py)
+    Controlling the Flow 
+    * [Week 5](#Weekday.py)
+    Data
     
 
-# Weeks 1 -3
+# Week 1 - Hello World Task
+=======
+There was a number of tasks in Week1. I introduced myself in the discussion forum. I created my environment by following the instuctions in the lectures. I have always had an interest in computing but more from a gaming and communication aspect. I found setting up the environment a challange due to my lack of knowlege about computing vocabulary. I installed the software as instructed - visual basic, commander, python and set up an account on Github.
+I than wrote by first programme. This was a very basic programme and was solution were easily found on [w3schools.com].
+What challanged me mostly this week was learning the add, commit, and push commands to Github. It took some brainpower to figure out how to push to the pands problem sheet.
+This week I also completed practice on tutorials in [w3schools.com] to become more familiar with basics. I pushed these to mywork on Git hub.
+
+# Week 2 - Bank.py
  I completed some research in w3 schools to cement the basics. I did find it difficult to relsolve differnce between how w3 school wrote the code and what we studying in the lectures/labs
 I also used youtube videos as a resource - watched videos showing basics and ones similar to the questions in the problem sheets
  I use google also to help me with the accounts problem and read through some similar - Stack Overflow, digital ocean, etc - found it difficult to match how they wrote codes with our learning - very advanced.
- I made two attemptd to complete the accounts extra to no joy - cannot figure how to repalce multiple digits which can vary. Maybe as the weeks go by I might get more clues how to do this.
+ I made two attempted to complete the accounts extra to no joy - cannot figure how to repalce multiple digits which can vary. Maybe as the weeks go by I might get more clues how to do this.
 
 # Week 04 -
 I struggled trying to imagine how to put the maths together with the ifs and elses
