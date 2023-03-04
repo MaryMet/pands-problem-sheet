@@ -39,20 +39,22 @@ I used the float function to create this programme.
 
 ### Week 3 - Accounts.py
 
+Week 3 task concentrated on Bank Account numbers and security. The objective of the task was to prompt the user to enter a ten digit number. The programme would than format the number to only show the last four digits. The first six digits were to be replaced by XXXXXX.
+I again consulted with the lectures of this week. I referred back to the labs of the week taking some inspiration from the. I researched on [w3schools.com](https://w3schools.com). I also gor some inspiration from [stackoverflow.com](http://stackoverflow.com) and [digitalocean.com](https://digitalocean.com). I found the last two websites inspirational in that it lead me to the function len - to count the numbers of numbers. I found the code on these websites too advanced to use in my program. it was difficult for a beginner to read/comprehend. Once I though about len and its application I went back to w3schools - here I managed to put together a basic programme which completes the task above. 
+Counting the number of numbers and "slicing" to achieve my results.
+I also made 2 attempts at the extra part of this programme. I struggled to find a way to change all number except for the last four in this programme. Other attempts saved under [accountextra](accountextra.py) and [accountextra2](accountsextra2.py)
 
-
-### Week 04 -
-I struggled trying to imagine how to put the maths together with the ifs and elses
- I seem to have it working on a basic level - I used the labs we did on evens and odd combined with examples on  w3 schools and my own imagination - that is the most difficult part imagining what I want.
- I wrote some "pseudo code" down and then coded along with labs and w3 schools to reflect my thoughts
- I then relaeased it has to be a continuous list of numbers until 1 - try again
- after some research online I learned about the collatx preset function and wtore up collatz 2 and tried to fix my first attempt
-Two collatz programs written and both work. collatz is more explanatory. collatz 2 is one I looked at on the internet - Stack Overflow
+### Week 04 - Collatz.py
+This week we needed to write a programme that complete teh COLLATZ maths phenomena.
+At the beginning of this I was absolutley flummoxed - I went to all google pages as above  [stackoverflow.com](http://stackoverflow.com) and [digitalocean.com](https://digitalocean.com) I could not interpret what they were doing 
+ As this week we covered while and for loops - if and elses and eilifs. I spent hours trying to use them to reflect my thoughts ie if even divide by 2. If odd multiply by 3 and add one. 
+I got a number of the dreaded infinty loops.
+Eventually I saw a mention of the collatz function on stackoverflow.
+I did my research on this function in [w3schools.com](https://w3schools.com) and this knowledge utterly simplified my code. Please see my two versions of collatz.py. Both versions work though my favourite is collatz.py as it is more explanatory
 
 ### Week 05 
-I really struggled this week. 
-As per last week I thought there would be some sort of mathematical solution to this but I learned from last week. Like the collatz issue I decided to explore if there inbuilt commands in python
-some googling and exploration of w3 revealed the import datetime function. Now I feel this might be doable.
-I can get my programme to come up with the day. I can get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
-Success - I made a number of attempts with different methods before coming to my conclusion - main difficult - reflecting that the day is only part of the list. The change came when I used for and in.
+I really struggled this week. Initally I was imagining a very complex mathematical solution and indeed when I looked at my trusted sites above the code appeared very complex. The programmer were assigning digits to weekdays 0 - 7 and writing complex codes.
+I learned my lesson from last week and quickly visited the trusted site [w3schools.com](https://w3schools.com) and there I foud the datetime function. I imported same.
+Initally my programme only printed out the days for me - I used some of the lab exercises we completed this week to assist me. I could get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
+After I made a number of attempts with different methods I achieved success by using - for and in. The in part reflected that it is only today that we needed printed.
 I have left in my other attempts and turned it into comments for you to see

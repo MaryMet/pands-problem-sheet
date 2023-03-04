@@ -6,7 +6,7 @@ original_account_number = input("please enter your account number: ")
 
 length = len(original_account_number)
 
-hidden = length[:4]
+hidden = length -4
 
 secure_number = original_account_number[hidden]
 
