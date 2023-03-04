@@ -1,7 +1,11 @@
 # pands-problem-sheet
 
 ## Table of Contents - Weekly Tasks
-    *[]
+    * [Week 1] (Setting up the environment - Hello World Task)
+    * [Week 2] (Statements - Bank.py - Decimal addition)
+    * [Week 3] (Variables - Bank Security Number Task )
+    * [Week 4] (Controlling the Flow - Collatz.py)
+    * [Week 5] (Data - Weekday.py)
     
 
 # Weeks 1 -3
