@@ -58,3 +58,8 @@ I learned my lesson from last week and quickly visited the trusted site [w3schoo
 Initally my programme only printed out the days for me - I used some of the lab exercises we completed this week to assist me. I could get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
 After I made a number of attempts with different methods I achieved success by using - for and in. The in part reflected that it is only today that we needed printed.
 I have left in my other attempts and turned it into comments for you to see
+
+### Week 06
+The main resource I turned to this week was youtube.
+I looked at, understoof and folllowed a video called The last minute professor. It did not work for me
+2 hours later I still cant figure out what to put into my loop for this to work
