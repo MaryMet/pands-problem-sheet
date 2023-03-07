@@ -10,4 +10,4 @@ hidden = length -4
 
 secure_number = original_account_number[hidden]
 
-print ("secure_number is : {} " .format(secure_numer) )
+print ("secure_number is : {} " .format(secure_number) )
