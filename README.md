@@ -60,6 +60,9 @@ After I made a number of attempts with different methods I achieved success by u
 I have left in my other attempts and turned it into comments for you to see
 
 ### Week 06
-The main resource I turned to this week was youtube.
-I looked at, understoof and folllowed a video called The last minute professor. It did not work for me
-2 hours later I still cant figure out what to put into my loop for this to work
+Newtonian method of getting a square root is an algorithim which produces successively better approximations of the square root of a number (or an equation)
+The main resource I turned to this week was youtube
+I looked at, understood and followed a video called The last minute professor. It did not work for me. It descibed the programme in very little details - no mention of what type of loop or iteration was used.
+I consulted with  [stackoverflow.com](http://stackoverflow.com) and [digitalocean.com](https://digitalocean.com) but I , again, could not interpret what they were doing. [tutorialsinhand](http:tutorialinhand.com) - I understood and copied this. It work but I didn't like its simplistic printing. And there was no code to enter any number - it only worked on 10
+I completed what I could and it does work to some degree - though I would like to know how to repeat the steps a number of times to get a more accurate answer.
+
