@@ -20,6 +20,7 @@ In this readme file I will explain the aim of the weekly tasks that were assigne
     Controlling the Flow   
     * [Week 5 weekday](Weekday.py)
     Data. 
+    * [Week 6 Squareroot](sroot.py)(Sqrt.py)
     
 
 ### **Week 1** - Hello World Task
@@ -65,4 +66,7 @@ The main resource I turned to this week was youtube
 I looked at, understood and followed a video called The last minute professor. It did not work for me. It descibed the programme in very little details - no mention of what type of loop or iteration was used.
 I consulted with  [stackoverflow.com](http://stackoverflow.com) and [digitalocean.com](https://digitalocean.com) but I , again, could not interpret what they were doing. [tutorialsinhand](http:tutorialinhand.com) - I understood and copied this. It work but I didn't like its simplistic printing. And there was no code to enter any number - it only worked on 10
 I completed what I could and it does work to some degree - though I would like to know how to repeat the steps a number of times to get a more accurate answer.
+I re read the assignment and released that I was going down the wrong path to def a function
+Rewite sqrt.py - I used a tutorial from [andreamarino](https://andreamarino.it) to assist me. And I personalised same.
+I than made a new file called sroot which reflects my thoughts on the task - use it for any numebr and complete the function on ten occasions to get a very accurate approximation of the square root of the number entered.
 
