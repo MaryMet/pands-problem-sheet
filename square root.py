@@ -15,6 +15,7 @@ print (f"A more accurate square root is: {more_accurate} ")
 
 while (number!=more_accurate*more_accurate):
     more_accurate = 0.5* (more_accurate + number/more_accurate)
+    #approx_sqrt==more_accurate
     print (more_accurate)
     break
 #while (more_accurate != approx_sqrt) : # I dont know what to put in to get it to repeatt above steps
