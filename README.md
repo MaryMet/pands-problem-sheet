@@ -21,6 +21,7 @@ In this readme file I will explain the aim of the weekly tasks that were assigne
     * [Week 5 weekday](Weekday.py)
     Data. 
     * [Week 6 Squareroot](sroot.py)(Sqrt.py)
+    * [Week 7 eeeEEEs](count.py) 
     
 
 ### **Week 1** - Hello World Task
@@ -61,6 +62,7 @@ After I made a number of attempts with different methods I achieved success by u
 I have left in my other attempts and turned it into comments for you to see
 
 ### Week 06
+
 Newtonian method of getting a square root is an algorithim which produces successively better approximations of the square root of a number (or an equation)
 The main resource I turned to this week was youtube
 I looked at, understood and followed a video called The last minute professor. It did not work for me. It descibed the programme in very little details - no mention of what type of loop or iteration was used.
@@ -69,4 +71,11 @@ I completed what I could and it does work to some degree - though I would like t
 I re read the assignment and released that I was going down the wrong path to def a function
 Rewite sqrt.py - I used a tutorial from [andreamarino](https://andreamarino.it) to assist me. And I personalised same.
 I than made a new file called sroot which reflects my thoughts on the task - use it for any numebr and complete the function on ten occasions to get a very accurate approximation of the square root of the number entered.
+I would have liked if my prograames would show the full ten steps to get to the end sqyare root.
+
+### Week 07 
+
+I created a text file called [ecount.txt](ecount.txt) which contained a few lines from a book.
+I watched the lecture videos this week. I attempted the labs - until the discussion part. Here is where I lost train of thought and could not follow. Did not know the meaning of an init file - will go back to.
+I then consulted with the internet to get some ideas of how to write a code a function to count the number of eE's in a text file. My main resource was a video from Youtube - Codipy Mohit - Python Programme to count number of vowels present in a text file. I adapted this easily to count the number of ee in my text file. Link : [resource](https://www.google.com/search?q=write+a+python+program+to+read+a+text+file+and+display+the+number+of+vowels&oq=python+-+write+a+program+that+reads+a+text+f&aqs=chrome.1.69i57j0i22i30l5j0i390l3.23877j0j4&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8#fpstate=ive&vld=cid:06f496ea,vid:cmEvyksh6gw)
 
