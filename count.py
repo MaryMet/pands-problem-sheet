@@ -3,6 +3,10 @@
 # My text file is called ecount.txt
 # Author : Mary Metcalfe
 
+import sys
+
+filename = sys.argv[0]
+
 def count_e ():
     file = open ("ecount.txt")
     content = file.read()
