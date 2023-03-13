@@ -7,6 +7,11 @@ import sys # I used some resources on youtube for this - but i am still unsure w
 
 filename = sys.argv[0]
 
+print(len(sys.argv))
+
+for x in sys.argv:
+    print (x)
+
 def count_e (): # created a function that counts the number of es
     file = open ("ecount.txt")
     content = file.read()
