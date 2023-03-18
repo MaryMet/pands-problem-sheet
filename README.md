@@ -42,12 +42,16 @@ It took be some effort because I lacked any real understanding of syntax at this
 I have no been able to figure out yet how to put in the intial amounts in cents only. The programme only works if the amount is enter a decimal number.
 I used the float function to create this programme.
 
+---
+
 ### Week 3 - Accounts.py
 
 Week 3 task concentrated on Bank Account numbers and security. The objective of the task was to prompt the user to enter a ten digit number. The programme would than format the number to only show the last four digits. The first six digits were to be replaced by XXXXXX.
 I again consulted with the lectures of this week. I referred back to the labs of the week taking some inspiration from the. I researched on [w3schools.com](https://w3schools.com). I also gor some inspiration from [stackoverflow.com](http://stackoverflow.com) and [digitalocean.com](https://digitalocean.com). I found the last two websites inspirational in that it lead me to the function len - to count the numbers of numbers. I found the code on these websites too advanced to use in my program. it was difficult for a beginner to read/comprehend. Once I though about len and its application I went back to w3schools - here I managed to put together a basic programme which completes the task above. 
 Counting the number of numbers and "slicing" to achieve my results.
 I also made 2 attempts at the extra part of this programme. I struggled to find a way to change all number except for the last four in this programme. Other attempts saved under [accountextra](accountextra.py) and [accountextra2](accountsextra2.py)
+
+---
 
 ### Week 04 - Collatz.py
 This week we needed to write a programme that complete teh COLLATZ maths phenomena.
@@ -57,12 +61,16 @@ I got a number of the dreaded infinty loops.
 Eventually I saw a mention of the collatz function on stackoverflow.
 I did my research on this function in [w3schools.com](https://w3schools.com) and this knowledge utterly simplified my code. Please see my two versions of collatz.py. Both versions work though my favourite is collatz.py as it is more explanatory
 
+---
+
 ### Week 05 
 I really struggled this week. Initally I was imagining a very complex mathematical solution and indeed when I looked at my trusted sites above the code appeared very complex. The programmer were assigning digits to weekdays 0 - 7 and writing complex codes.
 I learned my lesson from last week and quickly visited the trusted site [w3schools.com](https://w3schools.com) and there I foud the datetime function. I imported same.
 Initally my programme only printed out the days for me - I used some of the lab exercises we completed this week to assist me. I could get it to print all the days and their associated weekday or weekend but I cant get it it to just print todays day and whether its a week day or weekend
 After I made a number of attempts with different methods I achieved success by using - for and in. The in part reflected that it is only today that we needed printed.
 I have left in my other attempts and turned it into comments for you to see
+
+---
 
 ### Week 06
 
@@ -76,11 +84,15 @@ Rewite sqrt.py - I used a tutorial from [andreamarino](https://andreamarino.it) 
 I than made a new file called sroot which reflects my thoughts on the task - use it for any numebr and complete the function on ten occasions to get a very accurate approximation of the square root of the number entered.
 I would have liked if my prograames would show the full ten steps to get to the end sqyare root.
 
+---
+
 ### Week 07 
 
 I created a text file called [ecount.txt](ecount.txt) which contained a few lines from a book.
 I watched the lecture videos this week. I attempted the labs - until the discussion part. Here is where I lost train of thought and could not follow. Did not know the meaning of an init file - will go back to.
 I then consulted with the internet to get some ideas of how to write a code a function to count the number of eE's in a text file. My main resource was a video from Youtube - Codipy Mohit - Python Programme to count number of vowels present in a text file. I adapted this easily to count the number of ee in my text file. Link : [resource](https://www.google.com/search?q=write+a+python+program+to+read+a+text+file+and+display+the+number+of+vowels&oq=python+-+write+a+program+that+reads+a+text+f&aqs=chrome.1.69i57j0i22i30l5j0i390l3.23877j0j4&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8#fpstate=ive&vld=cid:06f496ea,vid:cmEvyksh6gw) The language he speaks is Indian but his code was easily readable.
+
+---
 
 ### Week 08
 
