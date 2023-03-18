@@ -32,6 +32,8 @@ I than wrote by first programme. This was a very basic programme and was solutio
 What challanged me mostly this week was learning the add, commit, and push commands to Github. It took some brainpower to figure out how to push to the pands problem sheet.
 This week I also completed practice on tutorials in [w3schools.com](https://w3schools.com) to become more familiar with basics. I pushed these to mywork on Git hub.
 
+---
+
 ### Week 2 - Bank.py
 
 Week 2 task asked to write a programme titled bank.py. The objective of the programme was to prompt the user to enter two amounts of money -in cents. It must the complete the addition and display the answer in euros and cents.
@@ -82,9 +84,9 @@ I then consulted with the internet to get some ideas of how to write a code a fu
 
 ### Week 08
 
-I enjoyed this week - I enjoyed using the matlab and numpy as math I understand - somewhat.
-I used your lectures to assist me in creating the x cubed line. I personalised the axes with labels and put on a header. I used resources on [w3schools](https://w3schools.com) and your lectures from thsi week to assist in the personalisations.
-To make the histogram I again relied on your lectures and then expanded using on line resources. To incorporate the standard deviation and the mean I looked at [matplotlib.com](https://matplotlib.org/stable/gallery/statistics/histogram_features.html)
+I enjoyed this week - I enjoyed using the matlab and numpy as, I understand math, - somewhat.
+I used your lectures to assist me in creating the x cubed line. I personalised the axes with labels and put on a header. I used resources on [w3schools](https://w3schools.com) and your lectures from this week to assist in the personalisations.
+To make the histogram I again relied on your lectures and then expanded using on-line resources. To incorporate the standard deviation and the mean I looked at [matplotlib.com](https://matplotlib.org/stable/gallery/statistics/histogram_features.html)
 To personalise the histogram I used the follow resource as inspiration [matplotlib.com](http://rlhick.people.wm.edu/posts/make-matplotlib-like-R.html) This resouce, coincidently, may be helpful with our project!
 
 
