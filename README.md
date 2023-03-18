@@ -22,6 +22,7 @@ In this readme file I will explain the aim of the weekly tasks that were assigne
     Data. 
     * [Week 6 Squareroot](sroot.py)(Sqrt.py)
     * [Week 7 eeeEEEs](count.py) 
+    * [Week 8 plottask](plottask.py)
     
 
 ### **Week 1** - Hello World Task
@@ -77,5 +78,13 @@ I would have liked if my prograames would show the full ten steps to get to the 
 
 I created a text file called [ecount.txt](ecount.txt) which contained a few lines from a book.
 I watched the lecture videos this week. I attempted the labs - until the discussion part. Here is where I lost train of thought and could not follow. Did not know the meaning of an init file - will go back to.
-I then consulted with the internet to get some ideas of how to write a code a function to count the number of eE's in a text file. My main resource was a video from Youtube - Codipy Mohit - Python Programme to count number of vowels present in a text file. I adapted this easily to count the number of ee in my text file. Link : [resource](https://www.google.com/search?q=write+a+python+program+to+read+a+text+file+and+display+the+number+of+vowels&oq=python+-+write+a+program+that+reads+a+text+f&aqs=chrome.1.69i57j0i22i30l5j0i390l3.23877j0j4&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8#fpstate=ive&vld=cid:06f496ea,vid:cmEvyksh6gw) The language he speaks is INdian but his code was easily readable.
+I then consulted with the internet to get some ideas of how to write a code a function to count the number of eE's in a text file. My main resource was a video from Youtube - Codipy Mohit - Python Programme to count number of vowels present in a text file. I adapted this easily to count the number of ee in my text file. Link : [resource](https://www.google.com/search?q=write+a+python+program+to+read+a+text+file+and+display+the+number+of+vowels&oq=python+-+write+a+program+that+reads+a+text+f&aqs=chrome.1.69i57j0i22i30l5j0i390l3.23877j0j4&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8#fpstate=ive&vld=cid:06f496ea,vid:cmEvyksh6gw) The language he speaks is Indian but his code was easily readable.
+
+### Week 08
+
+I enjoyed this week - I enjoyed using the matlab and numpy as math I understand - somewhat.
+I used your lectures to assist me in creating the x cubed line. I personalised the axes with labels and put on a header. I used resources on [w3schools](https://w3schools.com) and your lectures from thsi week to assist in the personalisations.
+To make the histogram I again relied on your lectures and then expanded using on line resources. To incorporate the standard deviation and the mean I looked at [matplotlib.com](https://matplotlib.org/stable/gallery/statistics/histogram_features.html)
+To personalise the histogram I used the follow resource as inspiration [matplotlib.com](http://rlhick.people.wm.edu/posts/make-matplotlib-like-R.html) This resouce, coincidently, may be helpful with our project!
+
 
