@@ -17,14 +17,10 @@ Weekend_Days = ("Saturday",
 
 print (Days_of_Week)
 print (Weekend_Days)
-
 import datetime
-
 x = datetime.datetime.now()
-
 print(x.year)
 print(x.strftime("%A"))
-
 if x.strftime("%A") in Days_of_Week:
     print ("Unfortunatly today is a weekday")
 else:
