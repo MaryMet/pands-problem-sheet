@@ -11,7 +11,7 @@ for x in sys.argv:
 def count_e (): # created a function that counts the number of es
     file = open ("ecount.txt")
     content = file.read()
-    amounts = list("Ee") # count upper and lower case es
+    amounts = list("Ee") # count upper and lower case es and Es
     count = 0
     for amount in content:
         if amount in amounts:
