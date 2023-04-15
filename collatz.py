@@ -1,3 +1,26 @@
+# Collatz 
+# Using while and appends to create the list of numbers until 1
+# combination of whiles, ifs and elses
+# Author : MAry Metcalfe
+
+
+number = int(input("Please enter number :"))
+
+def collatz(number):
+     while number !=1: 
+        if number % 2 == 0:
+         number = number//2
+         print(number, end = ",") # end = "," made the output horizontal rather than vertical as per feedback recieved. Inspired by https://stackoverflow.com/questions/18458024/cant-figure-out-how-to-print-horizontally-in-python
+        
+
+        else :
+            number = 3*number+1
+            print(number, end = ",")
+           
+
+collatz(number)
+
+
 # Task involving ifs and elses? And eilif?
 # Calculation problem
 # Author : Mary Metcalfe
@@ -22,20 +45,3 @@
  #will use while and appends to create the list of numbers until 1
 # combination of whiles, ifs and elses
 # Author : MAry Metcalfe
-
-
-number = int(input("Please enter number :"))
-
-def collatz(number):
-     while number !=1: 
-        if number % 2 == 0:
-         number = number//2
-         print(number, end = ",") # end = "," made the output horizontal rather than vertical as per feedback recieved. Inspired by https://stackoverflow.com/questions/18458024/cant-figure-out-how-to-print-horizontally-in-python
-        
-
-        else :
-            number = 3*number+1
-            print(number, end = ",")
-           
-
-collatz(number)
