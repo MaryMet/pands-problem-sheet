@@ -8,9 +8,13 @@ def newton_sqrt(number, howmany):
         betterapprox = 0.5 * (approx + number/approx)
         approx = betterapprox
     return betterapprox
-print (newton_sqrt (9, 2))
-print (newton_sqrt (9, 4))
-print (newton_sqrt (9, 6))
+
+x = float(input("Enter a number : ")) # define a number that you want to get the square root of
+
+print (newton_sqrt (x, 2)) # complete the above 2 times - gives a loose approximation of the xs square root
+print (newton_sqrt (x, 4)) # complete the above 4 times - gives a better approximation of xs square root
+print (newton_sqrt (x, 6)) # complete the above 6 times - even closer to actual square root
+print (newton_sqrt (x, 10)) # closer again !!
 
  #sroot - second method
 
